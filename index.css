@@ -1,0 +1,56 @@
+.sec2{
+   text-align: center;
+   padding: 20px;
+   background-color: aliceblue;
+}
+
+.sec4{
+   text-align: center;
+   background-color: lightblue;
+   padding:10px;
+}
+
+.sec3{
+   background-color: aqua;
+   padding:20px;
+}
+
+.sec5{
+   text-align: center;
+   background-image: url(shop1.jpg);
+   background-size: cover;
+   margin-top: 0px;
+}
+
+.box1{
+   height: 500px; 
+}
+
+.sec6{
+   text-align: center;
+   background-color: darkcyan;
+   padding:20px;
+}
+
+.sec7{
+   text-align: center;
+}
+
+.btn{
+   background-color:white;
+}
+
+.sec8{
+   text-align: center;
+}
+
+.box2{
+   height: 150px;
+}
+
+.sec1{
+   text-align: center;
+   background-image: url(img4.jpg);
+   background-size: cover;
+   padding: 80px;
+}
